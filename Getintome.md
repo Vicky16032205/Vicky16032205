@@ -28,6 +28,9 @@ Generative AI – Building AI systems that produce human-like content for applic
 Ethics in AI – Focusing on creating responsible AI systems, particularly in areas like misinformation detection and mental health.
 Hackathons – Actively participating in hackathons to push my skills and collaborate with other like-minded developers.
 
+## 📈 GitHub Stats
+![Vicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vicky16032205&show_icons=true&theme=radical)
+
 # 📫 Let's Connect!
 LinkedIn: www.linkedin.com/in/vicky-gupta-2293b9250
 Email: vickyguptagkp55@gmail.com
